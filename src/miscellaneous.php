@@ -1,5 +1,5 @@
 <?php
-namespace public_api;
+namespace zouyougui\public_api;
 
 class miscellaneous {
     

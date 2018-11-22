@@ -1,7 +1,6 @@
 {
     "name": "zouyougui/personal_tools",
-    "version": "1.0.0",
-    "authors": [   
+    "authors": [
         {
             "name": "zouyouguo",
             "email": "337196325@qq.com"
@@ -12,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "YanlongMa\\Push\\": "src/"
+            "zouyougui\\public_api\\": "src/"
         }
     }
 }
