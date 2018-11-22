@@ -1,5 +1,5 @@
 <?php
-namespace zouyougui\public_api;
+namespace zouyougui\personal_tools;
 
 class miscellaneous {
     

@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "zouyougui\\public_api\\": "src/"
+            "zouyougui\\personal_tools\\": "src/"
         }   
     }
 }
