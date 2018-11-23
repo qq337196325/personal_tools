@@ -4,6 +4,11 @@ namespace zouyougui\personal_tools;
 use zouyougui\personal_tools\bin\PHPMailer;
 
 class mail {
+    
+    public function test(){
+        return '测试邮箱';
+    }
+    
     /*
      * 发送邮箱 mail
      * @ $address             []        //添加收件人地址
