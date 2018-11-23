@@ -7,8 +7,6 @@ class miscellaneous {
         return '12345';
     }
 
-    
-
     public function post($url, $post_json) {
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, $url);
@@ -23,5 +21,4 @@ class miscellaneous {
     curl_close($ch);
     return $ret;
   }
-
 }
