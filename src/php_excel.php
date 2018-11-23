@@ -11,6 +11,10 @@ use PHPExcel_IOFactory;
 
 class php_excel {
   
+     public function test(){
+        return '测试导出';
+    }
+    
   /*  导出Excel   
    * $file_name         [string]      生成的Excel名称
    * $data              [array]      需要生成Excel数据[二维数组]
